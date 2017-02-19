@@ -1,0 +1,13 @@
+{
+  "name": "present_light",
+  "private": true,
+  "depedencies": {},
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "webpack": "^2.2.1"
+  }
+}

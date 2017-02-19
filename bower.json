@@ -10,7 +10,9 @@
     "purescript-prelude": "^2.4.0",
     "purescript-console": "^2.0.0",
     "purescript-thermite": "^3.2.1",
-    "purescript-maps": "^2.1.2"
+    "purescript-maps": "^2.1.2",
+    "purescript-react": "^2.0.0",
+    "purescript-react-dom": "^2.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^2.0.0"
