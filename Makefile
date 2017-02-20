@@ -20,7 +20,7 @@ node_modules: package.json
 output:
 	mkdir -p output
 
-serve:
+serve: all
 	$$(npm bin)/live-server
 
 .PHONY: serve
